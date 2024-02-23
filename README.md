@@ -51,9 +51,9 @@ Please, feel free to contribute. The company list is in alphabetical order
 | TripNinja | Trip Ninja is a travel technology solutions company that helps booking agencies find efficiencies and drive revenue using machine learning. Our all-in-one flight booking platform helps agents find more competitive itineraries in seconds, while our API helps those with existing platforms augment specific aspects of their booking flow with proprietary machine learning. | [Site](https://www.tripninja.io/) | [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/company/trip-ninja/)
 
 ## Ontario
-
-| Name  | Description  | Site  | Linkedin |
-|---|---|:-:|:-:|
+| Name  | Description  | City | Site  | Linkedin |
+|---|---|:-:|:-:|:-:|
+| ZippedScript | Verifying degrees globally & instantly | Toronto | [Site]([https://www.tripninja.io/](http://www.zippedscript.com/)) | [![Linkedin](https://i.stack.imgur.com/gVE0j.png)]([https://www.linkedin.com/company/trip-ninja/](https://www.linkedin.com/company/zipped-script/))
 
 ## Prince Edward Island
 
