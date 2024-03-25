@@ -10,9 +10,10 @@ Please, feel free to contribute. The company list is in alphabetical order
 
 ## Alberta
 
-| Name  | Description  | Site  | Linkedin |
-|---|---|:-:|:-:|
-| Finofo | We help business finance teams become more productive! With our platform, businesses can bank internationally, convert currencies, and automate their accounts payables plus more - all from one place. Our goal is to build the only financial platform businesses should ever need and there's plenty to develop. We're always on the lookout for new talent, so feel free to contact our team members for more information. | [Site](https://www.finofo.com/) | [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/company/finofo/)
+| Name  | Description  | City  | Site  | Linkedin |
+|---|---|:-:|:-:|:-:|
+| Finofo | We help business finance teams become more productive! With our platform, businesses can bank internationally, convert currencies, and automate their accounts payables plus more - all from one place. Our goal is to build the only financial platform businesses should ever need and there's plenty to develop. We're always on the lookout for new talent, so feel free to contact our team members for more information. | | [Site](https://www.finofo.com/) | [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/company/finofo/)
+| Neo Financial | Neo is a leading financial technology company that’s building a more rewarding financial experience — empowering more Canadians to take control of their future. | Calgary | [Site](https://www.neofinancial.com/) | [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/company/neo-financial/)
 
 
 ## Britsh Columbia
